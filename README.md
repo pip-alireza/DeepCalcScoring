@@ -2,7 +2,7 @@ This is the offial page for the paper "Automated Measurement of Vascular Calcifi
 
 The goal of this project is to quantify calcification in human CT images. The code will be available upon publication of the project. 
 
-![Projection of  6572np](https://github.com/pip-alireza/DeepCalcScoring/assets/130691419/fbfb5223-a20a-4451-b50c-60d293299ecd | width=100)
+![Projection of  6572np-1](https://github.com/pip-alireza/DeepCalcScoring/assets/130691419/cb79716d-705f-4bf6-a6ea-736e44bd241b)
 ![image](https://github.com/pip-alireza/DeepCalcScoring/assets/130691419/128f99d2-66ec-4e1a-92bd-78baf2da70f9)
 ![image](https://github.com/pip-alireza/DeepCalcScoring/assets/130691419/026d2d15-47f1-4cec-bab3-480707962df4)
 
