@@ -9,6 +9,6 @@ model automatically segments the vascular system, which is then overlayed on the
 
 
 
-![Projection of 6572np-2](https://github.com/pip-alireza/DeepCalcScoring/assets/130691419/188f12a8-e213-4146-a913-14c53956334b)
-![Picture4](https://github.com/pip-alireza/DeepCalcScoring/assets/130691419/3cfd2ded-3886-4865-99ee-960332eb1f67)
-![Picture5(1)](https://github.com/pip-alireza/DeepCalcScoring/assets/130691419/d459a606-6b18-41c1-a2eb-104988939524)
+![Projection of 6572np-2(1)](https://github.com/pip-alireza/DeepCalcScoring/assets/130691419/c389236c-7820-4ffa-ace9-287d3293bba6)
+![Picture5(2)](https://github.com/pip-alireza/DeepCalcScoring/assets/130691419/7848da53-9caf-46a3-8aee-7f397370ea56)
+![Picture4(1)](https://github.com/pip-alireza/DeepCalcScoring/assets/130691419/ffe8b6c3-1f66-45c6-81ce-4eec7ad29f03)
