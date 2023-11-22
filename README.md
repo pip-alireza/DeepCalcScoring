@@ -6,6 +6,7 @@ This project leverages deep learning to automatically extract the vascular syste
 # Citation 
 If you use this code or models in your scientific work, please cite the following paper:
 
+
 @Article{bagheri23DeepCalc,
 AUTHOR = {Bagheri Rajeoni, Alireza and Pederson, Breanna and Clair, Daniel G. and Lessner, Susan M. and Valafar, Homayoun},
 TITLE = {Automated Measurement of Vascular Calcification in Femoral Endarterectomy Patients Using Deep Learning},
@@ -14,15 +15,19 @@ VOLUME = {13},
 YEAR = {2023},
 NUMBER = {21},
 ARTICLE-NUMBER = {3363},
-URL = {https://www.mdpi.com/2075-4418/13/21/3363},
+DOI = {10.3390/diagnostics13213363}
 }
 
+
+
+
 # Environment setup and training
-You can create the appropriate conda environment by running:
-```bash
+1. Create the appropriate conda environment by running:
+``` bash
 conda env create -f DeepCalc.yml
 
-Then, use "train.py" to train the model with your data. After training, you can utilize "Vascular extraction & calcium scoring.py" to extract the vascular system using the trained model and subsequently measure calcification within the vascular system.
+2. se "train.py" to train the model with your data.
+3. After training, you can utilize "Vascular extraction & calcium scoring.py" to extract the vascular system using the trained model and subsequently measure calcification within the vascular system.
 
 Link to the paper: https://www.mdpi.com/2075-4418/13/21/3363
 
