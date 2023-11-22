@@ -5,9 +5,9 @@ This project leverages deep learning to automatically extract the vascular syste
 
 # Citation 
 If you use this code or models in your scientific work, please cite the following paper:
-
+```
 Bagheri Rajeoni, A., Pederson, B., Clair, D. G., Lessner, S. M., & Valafar, H. (2023). Automated Measurement of Vascular Calcification in Femoral Endarterectomy Patients Using Deep Learning. Diagnostics, 13(21), 3363. https://doi.org/10.3390/diagnostics13213363
-
+```
 
 
 # Environment setup and training
