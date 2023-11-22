@@ -23,7 +23,8 @@ DOI = {10.3390/diagnostics13213363}
 
 # Environment setup and training
 1. Create the appropriate conda environment by running:
-``` bash
+
+```bash
 conda env create -f DeepCalc.yml
 ```
 
