@@ -20,7 +20,7 @@ URL = {https://www.mdpi.com/2075-4418/13/21/3363},
 You can create the appropriate conda environment by running:
 ```bash
 conda env create -f DeepCalc.yml
-
+```
 
 Then, use "train.py" to train the model with your data. After training, you can utilize "Vascular extraction & calcium scoring.py" to extract the vascular system using the trained model and subsequently measure calcification within the vascular system.
 
