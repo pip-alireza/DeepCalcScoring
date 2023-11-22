@@ -28,7 +28,7 @@ DOI = {10.3390/diagnostics13213363}
 conda env create -f DeepCalc.yml
 ```
 
-2. se "train.py" to train the model with your data.
+2. Use "train.py" to train the model with your data.
 3. After training, you can utilize "Vascular extraction & calcium scoring.py" to extract the vascular system using the trained model and subsequently measure calcification within the vascular system.
 
 Link to the paper: https://www.mdpi.com/2075-4418/13/21/3363
@@ -41,7 +41,7 @@ Link to the paper: https://www.mdpi.com/2075-4418/13/21/3363
 
 
 # Results
-Below is an illustration on how the model extracts the vascular system and calcifrication.
+Below is an illustration on how the model extracts the vascular system and calcifrication. Proceeding from left to right: input data from human CT images is received, the model then extracts the vascular system (middle image), subsequently tracking calcification within the vascular system (right image). Finally, it calculates the calcium score by summing up all identified calcifications.
 
 ![Projection of 6572np-2(2)](https://github.com/pip-alireza/DeepCalcScoring/assets/130691419/03aa5da8-9564-4e93-b9de-ca55ef59e3ee)
 ![Picture4(1)](https://github.com/pip-alireza/DeepCalcScoring/assets/130691419/a5174ae6-c23a-4774-999f-b0b09952236c)
